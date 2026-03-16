@@ -1,0 +1,11 @@
+# Entornos virtuales y caché de Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Archivos de prueba (¡No subir los CVs reales!)
+resumes/*.pdf
+
+# Resultados generados por tu código
+output/txt/*.txt
+output/csv/*.csv
